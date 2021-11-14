@@ -31,16 +31,29 @@
 
 Принял Шушпандер по этому поводу меры, усилил учет, на 100 человеках опять пересчитал - волна прошла, вышел на плато, радуется, ждет премии, благо занятие у него несложное оказалось: делать ничего не надо, знай цифорки вписывай в таблицу. 
 
+[https://github.com/Zoviet/chushpanka/tree/master/graph/100.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/100.jpg)
+
 200 учел - опять плато, да вот только пик почему-то предыдущей волны сместился вперед - первая волна на 40 была, а тут ему на 80 показывает! Видать дело совсем плохо с чушпанкой, волнами раз пошла, надо больше людишек ловить и учитывать. 
+
+[https://github.com/Zoviet/chushpanka/tree/master/graph/200.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/200.jpg)
 
 300 учел - бушевание полное, пора и в центр звонить, подмоги просить! Нигде в методичках не написано, чтобы так чушпанка когда-либо лютовала, видать мутировала! 
 
+[https://github.com/Zoviet/chushpanka/tree/master/graph/300.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/300.jpg)
 
 400, 500, 900 учел - вроде плато достигается, а волна та вторая гигантская все догоняет и догоняет, хоть и не с такой силой. Хоть бы кто помер бы от чушмпанки еще - думает Шушпандер, может этот плотергейст бы и кончился! 
 
+[https://github.com/Zoviet/chushpanka/tree/master/graph/400.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/400.jpg)
+
 К 1000 как приближаться стало, чудо произошло! Стала чушпанка отрицательную смертность показывать - бабы, видать, рожать от нее стали, да только рано радоваться - на плато опять вышло, а волна все догоняет и догоняет - третья, четвертая, пятая: при каждом расчете новая волна получается у Шушпандера!
 
+[https://github.com/Zoviet/chushpanka/tree/master/graph/1000.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/1000.jpg)
+
 Но остановится уже нельзя - 3, 4 тысячи учел Шушпандер больных-болезных, слезы на глазах от графиков, к полному учету приближается - уже все 10000 жителей готов в госпиталях заморить, только бы волну 142-ую остановить, а она, гадина, все не дается! 
+
+[https://github.com/Zoviet/chushpanka/tree/master/graph/3000.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/3000.jpg)
+
+[https://github.com/Zoviet/chushpanka/tree/master/graph/10000.jpg](https://github.com/Zoviet/chushpanka/tree/master/graph/10000.jpg)
 
 
 
